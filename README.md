@@ -17,6 +17,9 @@ Este projeto tem como objetivo fortalecer suas habilidades em lógica de program
 1. Adicionar Amigos: Digite o nome do amigo no campo de entrada e clique no botão de adicionar.
 2. Sortear Amigo Secreto: Clique no botão de sortear para ver quem foi o amigo secreto escolhido.
 
+   ![Captura de tela 2025-03-16 193935](https://github.com/user-attachments/assets/45a13f6f-ae90-4a3f-91a8-62e675d600b4)
+
+
 ## Tecnologias Utilizadas
 
 - JavaScript
