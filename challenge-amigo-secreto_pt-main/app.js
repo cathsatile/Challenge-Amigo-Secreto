@@ -19,7 +19,7 @@ function adicionarAmigo(){
 
 function sortearAmigo(){
     if (!listaAmigos){
-        return console.error();
+        alert("Coloque um nome de usuário válido!");
     }else{
         let sorteado = parseInt(Math.random() * indiceLimite + 1);
         let resultado = listaAmigos[sorteado];
