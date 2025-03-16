@@ -18,7 +18,7 @@ function adicionarAmigo(){
 }
 
 function sortearAmigo(){
-    if (listaAmigos == null){
+    if (!listaAmigos){
         return console.error();
     }else{
         let sorteado = parseInt(Math.random() * indiceLimite + 1);
